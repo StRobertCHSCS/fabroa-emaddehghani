@@ -1,3 +1,10 @@
+Name:		practice1.py
+Purpose:	Compute the area and perimeter of a rectangle
+
+Author:		Fabroa.E
+
+Created:	19/02/2019
+------------------------------------------------------------------------------
 # get fahrenheit from user 
 fahrentheit = float(input ("enter fahrentheit: "))
 # copute celcius from farenheit

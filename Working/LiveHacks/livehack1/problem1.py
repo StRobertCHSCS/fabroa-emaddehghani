@@ -1,10 +1,10 @@
 -------------------------------------------------------------------------------
-Name:		practice1.py
-Purpose:	Compute the area and perimeter of a rectangle
+Name:		problem1.py
+Purpose:	Compute celcius into fahrenheit
 
 Author:		dehghani.E
 
-Created:	2/10/2019
+Created:	2/1-0/2019
 -------------------------------------------------------------------------------
 # get celcius from user
 celcius = float(input ("enter celcius: "))
